@@ -1,0 +1,32 @@
+h1 
+{
+	text-align: center;
+	font-size: 3em;
+	font-family: 'Signika', sans-serif;
+}
+h2 {
+	font-family: 'Signika', sans-serif;
+}
+body {
+	background-color: #CCCCCC;
+}
+#tweetTitle {
+	margin-left: 20px;
+}
+.tweets 
+{
+	background-color: #2EB8E6;
+	list-style-type: none;
+	border: 1px solid;
+	border-radius: 5px;
+	font-family: 'Lato', sans-serif;
+}
+.trends
+{
+	background-color: #2EB8E6;
+	list-style-type: none;
+	border: 1px solid;
+	border-radius: 5px;
+	font-family: 'Lato', sans-serif;
+	font-style: italic;
+}
